@@ -1,0 +1,69 @@
+    1  apt-get update ; apt-get install git -y
+    2  git --version
+    3  which git
+    4  clr
+    5  clear
+    6  ls
+    7  mkdir my_git_project
+    8  ls
+    9  cd  my_git_project
+   10  ls
+   11  git clone https://github.com/Tanvi-gupta/devops-niit.git
+   12  ls
+   13  cd devopa-niit
+   14  ls
+   15  cd devops-niit
+   16  ls
+   17  vi README.md
+   18  ls -ltr
+   19  echo "Hello world" 
+   20  cd devops-niit
+   21  ls
+   22  h
+   23  history
+   24  cd my_git_project
+   25  cd..
+   26  cd ..
+   27  cd /
+   28  ls
+   29  cd 
+   30  ls
+   31  uptime 
+   32  ls
+   33  exit 
+   34  sudo su -
+   35  l
+   36  ls
+   37  exit
+   38  exit 
+   39  pwd
+   40  exit
+   41  ls
+   42  cd /home/ubuntu
+   43  ls
+   44  cd my_git_project
+   45  ls
+   46  cd devops-niit
+   47  echo"Hello_world"> 
+   48  echo"Hello_world"> Hello_world.txt
+   49  echo"Hello_world" > Hello_world.txt
+   50  echo "Hello_world" > Hello_world.txt
+   51  ls
+   52  ls -ltr
+   53  git add
+   54  git  add .
+   55  git status
+   56  git log
+   57  git commit -m "Added Hello World "
+   58  git log
+   59  vi /root/.gitconfig
+   60  git config --global --edit
+   61  vi /root/.gitconfig
+   62  gti log
+   63  git log
+   64  git push
+   65  git log
+   66  git push
+   67  ls
+   68  git log
+   69  history > History.txt
